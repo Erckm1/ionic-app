@@ -1,0 +1,33 @@
+ion-content{
+    --background: url('/assets/BACKG.png') 100% 100%;
+}
+        .link{
+            color: #000000
+        }
+        .dias{
+            background-color: #000000;
+            color: #ffffff
+        }
+        .Materias{
+            background-color: #fdf9c4;
+            color: #000000
+        }
+        .title{
+            background-color: #fdf9c4;
+            color: #000000
+        }
+    /*hover permite canbiar las caracteristicas al tocar la etiqueta*/
+/*td:first-child{ accede al primer elemento de td
+    background-color: white;
+    color: black;
+} */   
+.dias:hover{
+    background-color: #ffffff ;
+    color: #000000;
+}
+tr{
+    color: #000000;
+}
+div:hover{ 
+    background-color: #ffffff;
+}

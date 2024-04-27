@@ -1,0 +1,25 @@
+/*.Lista{
+    background-color: #f5e2ae;
+    color: #000000
+}
+ion-item{
+    background-color:var(--ion-color-cream)
+}
+p{
+        background-color: #f5e2ae;
+        color: #000000
+}
+
+ion-header{
+    --background-color: primary;
+}
+ion-content{
+    --background-color: primary;
+}*/
+ion-content{
+    --background: url('/assets/BACKG.png') 100% 100%;
+}
+p{
+   font-family: cursive;
+   color: black;
+}
